@@ -140,7 +140,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Load data
-df = pd.read_csv('/Users/ashmitaluthra/Downloads/Time-Wasters on Social Media.csv')
+df = pd.read_csv('data/Time-Wasters on Social Media.csv')
 df.columns = df.columns.str.strip()
 
 # Sidebar filters with grouping
