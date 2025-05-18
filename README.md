@@ -18,6 +18,14 @@ Check out the live app deployed on Streamlit Cloud:
 -Choropleth map showing engagement by country<br>
 -Responsive and styled UI with custom CSS<br>
 
+![image](https://github.com/user-attachments/assets/0bead262-a0b4-40b9-b2ce-32d67b8f2cec)
+
+<br>
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/68fdf1ef-ebf0-4120-9d95-b3ec2e071b5f)
+
 ## Technology Stack
 
 Python libraries and tools:
