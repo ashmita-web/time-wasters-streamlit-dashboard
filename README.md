@@ -9,7 +9,15 @@ Welcome to the **Time Wasters on Social Media** dashboard! This interactive Stre
 Check out the live app deployed on Streamlit Cloud:  
 [https://share.streamlit.io/your-username/your-repo-name/main/app.py](https://time-wasters-app-dashboard-nprjy8pv3vukqs2iedccy2.streamlit.app/)
 
+## Demo Video
+
+[![Watch the video](demo.png)](https://github.com/user-attachments/assets/776c8b52-4e3d-4e7b-972a-ecaf270978c9)
+
 ## Colab Notebook
+
+
+
+
 
 Check out our Google Colab notebook for detailed data cleaning, preprocessing, and exploratory analysis: <br>
 [View the Colab Notebook](https://colab.research.google.com/drive/1fePPzaRROIDt2vTZyn0kqr1YiWoQ6SKF#scrollTo=-qR-1x4C3QS3)
